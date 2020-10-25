@@ -5,8 +5,8 @@
 const compareToTen = (num) => {
   return new Promise((resolve, reject) => {
     num > 10
-      ? resolve(num + ' is greater than 10, success!')
-      : reject(num + ' is less than 10, error!');
+      ? resolve(num + " is greater than 10, success!")
+      : reject(num + " is less than 10, error!");
   });
 };
 
