@@ -1,5 +1,9 @@
 # 4-5 - Node JS - Async / Await
 
+## Stretch exercise result:
+
+## <img src="__lecture/assets/api-workshop.gif" />
+
 ## Setup
 
 - `yarn install`
